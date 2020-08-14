@@ -1,0 +1,33 @@
+#app {
+  margin-top: 2rem;
+}
+
+#submitBtn {
+  margin-top: 2rem;
+}
+
+#currentWeatherTitle {
+  padding: 0 20px !important;
+}
+
+th, tr {
+  text-align: center;
+}
+
+body {
+  background-color: #cccccc;
+}
+
+.weather-info-card-header {
+  background-color: #cce6ff;
+  border-bottom: unset;
+}
+
+.weather-info-card {
+  border: unset;
+}
+
+.weather-info-card .card-body {
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0 0 .25rem .25rem;
+}
